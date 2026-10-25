@@ -1,6 +1,6 @@
 # Faraj Abbasi
 
-Second-year software engineering student at the University of Queensland. I build AI products end to end: the data, the model, the interface and the deployment.
+Second-year software engineering student at the University of Queensland. I like to build cool stuff.
 
 ## Projects
 
